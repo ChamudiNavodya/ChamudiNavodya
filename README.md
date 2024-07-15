@@ -18,7 +18,7 @@
 ### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTB3NzRhOGp3MHY3bDY4em1naG1paGozMzI3MGNqbHp1d3pwd2RsZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/yN4psF1lMgoaePuOyF/giphy.gif" width="35"> Connect with me
 
 <p align="left">
-<a href="linkedin.com/in/chamudi-navodya-bab4bb2a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudi-navodya-bab4bb2a1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chamudi-navodya-bab4bb2a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chamudi-navodya-bab4bb2a1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24535236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24535236" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/chamudinavodya14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chamudinavodya14" height="30" width="40" /></a>
 <a href="https://codepen.io/Chamudi-Navodya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="Chamudi-Navodya" height="30" width="40" /></a>
